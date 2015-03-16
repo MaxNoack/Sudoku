@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1418986644 source:h:\c++\sudokutest\sudokutest\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"windows.h"
+	<time.h>
+	<cstdlib>
+	<iomanip>
+	<fstream>
+
+1419000702 source:\\uwfpcluster03.uw.lu.se\zba10mn1$\documents\c++\sudokutest\sudokutest\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"windows.h"
+	<time.h>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+
+1419001130 source:c:\users\max\documents\c++\labbar\sudoku\sudokutest\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"windows.h"
+	<time.h>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+

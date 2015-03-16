@@ -1,0 +1,70 @@
+﻿Build started 2014-11-20 12:58:46.
+     1>Project "C:\wxWidgets-3.0.2\samples\widgets\widgets.vcxproj" on node 5 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\..\..\lib\vc_lib\mswud /I.\..\..\include /I. /I.\..\..\samples /Zi /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D __WXMSW__ /D _WINDOWS /D NOPCH /D _VC80_UPGRADE=0x0600 /D _UNICODE /D UNICODE /Gm /EHsc /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo".\vc_mswud\widgets\\" /Fd"vc_mswud\widgets.pdb" /Gd /TP /analyze- /errorReport:prompt  /EHsc   /EHsc bmpcombobox.cpp button.cpp checkbox.cpp choice.cpp clrpicker.cpp combobox.cpp datepick.cpp dirctrl.cpp dirpicker.cpp editlbox.cpp filectrl.cpp filepicker.cpp fontpicker.cpp gauge.cpp hyperlnk.cpp itemcontainer.cpp listbox.cpp notebook.cpp odcombobox.cpp radiobox.cpp searchctrl.cpp slider.cpp spinbtn.cpp statbmp.cpp static.cpp textctrl.cpp timepick.cpp toggle.cpp widgets.cpp
+         widgets.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         toggle.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         timepick.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         textctrl.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         static.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         statbmp.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         spinbtn.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         slider.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         searchctrl.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         radiobox.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         odcombobox.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         notebook.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         listbox.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         itemcontainer.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         hyperlnk.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         gauge.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         fontpicker.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         filepicker.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         filectrl.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         editlbox.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         Generating Code...
+         Compiling...
+         dirpicker.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         dirctrl.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         datepick.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         combobox.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         clrpicker.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         choice.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         checkbox.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         button.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         bmpcombobox.cpp
+     1>C:\wxWidgets-3.0.2\include\wx/platform.h(183): fatal error C1083: Cannot open include file: 'wx/setup.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\wxWidgets-3.0.2\samples\widgets\widgets.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.03
